@@ -1,0 +1,343 @@
+[
+    {
+        "pinyin": "b",
+        "zhuyin": "ㄅ",
+        "type": "initial"
+    },
+    {
+        "pinyin": "p",
+        "zhuyin": "ㄆ",
+        "type": "initial"
+    },
+    {
+        "pinyin": "m",
+        "zhuyin": "ㄇ",
+        "type": "initial"
+    },
+    {
+        "pinyin": "f",
+        "zhuyin": "ㄈ",
+        "type": "initial"
+    },
+    {
+        "pinyin": "d",
+        "zhuyin": "ㄉ",
+        "type": "initial"
+    },
+    {
+        "pinyin": "t",
+        "zhuyin": "ㄊ",
+        "type": "initial"
+    },
+    {
+        "pinyin": "n",
+        "zhuyin": "ㄅ",
+        "type": "initial"
+    },
+    {
+        "pinyin": "l",
+        "zhuyin": "ㄅ",
+        "type": "initial"
+    },
+    {
+        "pinyin": "g",
+        "zhuyin": "ㄍ",
+        "type": "initial"
+    },
+    {
+        "pinyin": "k",
+        "zhuyin": "ㄎ",
+        "type": "initial"
+    },
+    {
+        "pinyin": "h",
+        "zhuyin": "ㄏ",
+        "type": "initial"
+    },
+    {
+        "pinyin": "j",
+        "zhuyin": "ㄐ",
+        "type": "initial"
+    },
+    {
+        "pinyin": "q",
+        "zhuyin": "ㄑ",
+        "type": "initial"
+    },
+    {
+        "pinyin": "x",
+        "zhuyin": "ㄒ",
+        "type": "initial"
+    },
+    {
+        "pinyin": "zh",
+        "zhuyin": "ㄓ",
+        "type": "initial"
+    },
+    {
+        "pinyin": "ch",
+        "zhuyin": "ㄔ",
+        "type": "initial"
+    },
+    {
+        "pinyin": "sh",
+        "zhuyin": "ㄕ",
+        "type": "initial"
+    },
+    {
+        "pinyin": "r",
+        "zhuyin": "ㄖ",
+        "type": "initial"
+    },
+    {
+        "pinyin": "z",
+        "zhuyin": "ㄗ",
+        "type": "initial"
+    },
+    {
+        "pinyin": "c",
+        "zhuyin": "ㄘ",
+        "type": "initial"
+    },
+    {
+        "pinyin": "s",
+        "zhuyin": "ㄙ",
+        "type": "initial"
+    },
+    {
+        "pinyin": "-i",
+        "type": "final"
+    },
+    {
+        "pinyin": "a",
+        "zhuyin": "ㄚ",
+        "no_intial_form":"a",
+        "type": "final"
+    },
+    {
+        "pinyin": "o",
+        "zhuyin": "ㄛ",
+        "no_intial_form":"o",
+        "type": "final"
+    },
+    {
+        "pinyin": "e",
+        "zhuyin": "ㄜ",
+        "no_intial_form":"e",
+        "type": "final"
+    },
+    {
+        "pinyin": "ê",
+        "zhuyin": "ㄝ",
+        "no_intial_form":"ê",
+        "type": "final"
+    },
+    {
+        "pinyin": "ai",
+        "zhuyin": "ㄞ",
+        "no_intial_form":"ai",
+        "type": "final"
+    },
+    {
+        "pinyin": "ei",
+        "zhuyin": "ㄟ",
+        "no_intial_form":"ei",
+        "type": "final"
+    },
+    {
+        "pinyin": "ao",
+        "zhuyin": "ㄠ",
+        "no_intial_form":"ao",
+        "type": "final"
+    },
+    {
+        "pinyin": "ou",
+        "zhuyin": "ㄡ",
+        "no_intial_form":"ou",
+        "type": "final"
+    },
+    {
+        "pinyin": "an",
+        "zhuyin": "ㄢ",
+        "no_intial_form":"an",
+        "type": "final"
+    },
+    {
+        "pinyin": "en",
+        "zhuyin": "ㄣ",
+        "no_intial_form":"en",
+        "type": "final"
+    },
+    {
+        "pinyin": "ang",
+        "zhuyin": "ㄤ",
+        "no_intial_form":"ang",
+        "type": "final"
+    },
+    {
+        "pinyin": "eng",
+        "zhuyin": "ㄥ",
+        "no_intial_form":"eng",
+        "type": "final"
+    },
+    {
+        "pinyin": "er",
+        "zhuyin": "ㄦ",
+        "no_intial_form":"er",
+        "type": "final"
+    },
+    {
+        "pinyin": "i",
+        "zhuyin": "ㄧ",
+        "no_intial_form":"yi",
+        "type": "final"
+    },
+    {
+        "pinyin": "ia",
+        "zhuyin": "ㄧㄚ",
+        "no_intial_form":"ya",
+        "type": "final"
+    },
+    {
+        "pinyin": "io",
+        "zhuyin": "ㄧㄜ",
+        "no_intial_form":"yo",
+        "type": "final"
+    },
+    {
+        "pinyin": "ie",
+        "zhuyin": "ㄧㄝ",
+        "no_intial_form":"ye",
+        "type": "final"
+    },
+    {
+        "pinyin": "iai",
+        "zhuyin": "ㄧㄞ",
+        "no_intial_form":"yai",
+        "type": "final"
+    },
+    {
+        "pinyin": "iao",
+        "zhuyin": "ㄧㄠ",
+        "no_intial_form":"yao",
+        "type": "final"
+    },
+    {
+        "pinyin": "iu",
+        "zhuyin": "ㄧㄡ",
+        "no_intial_form":"you",
+        "type": "final"
+    },
+    {
+        "pinyin": "ian",
+        "zhuyin": "ㄧㄢ",
+        "no_intial_form":"yan",
+        "type": "final"
+    },
+    {
+        "pinyin": "in",
+        "zhuyin": "ㄧㄣ",
+        "no_intial_form":"yin",
+        "type": "final"
+    },
+    {
+        "pinyin": "iang",
+        "zhuyin": "ㄧㄤ",
+        "no_intial_form":"yang",
+        "type": "final"
+    },
+    {
+        "pinyin": "ing",
+        "zhuyin": "ㄧㄥ",
+        "no_intial_form":"ying",
+        "type": "final"
+    },
+    {
+        "pinyin": "u",
+        "zhuyin": "ㄨ",
+        "no_intial_form":"wu",
+        "type": "final"
+    },
+    {
+        "pinyin": "ua",
+        "zhuyin": "ㄨㄚ",
+        "no_intial_form":"wa",
+        "type": "final"
+    },
+    {
+        "pinyin": "uo",
+        "zhuyin": "ㄨㄛ",
+        "no_intial_form":"wo",
+        "type": "final"
+    },
+    {
+        "pinyin": "uai",
+        "zhuyin": "ㄨㄞ",
+        "no_intial_form":"wai",
+        "type": "final"
+    },
+    {
+        "pinyin": "ui",
+        "zhuyin": "ㄨㄟ",
+        "no_intial_form":"wei",
+        "type": "final"
+    },
+    {
+        "pinyin": "uan",
+        "zhuyin": "ㄨㄢ",
+        "no_intial_form":"wan",
+        "type": "final"
+    },
+    {
+        "pinyin": "un",
+        "zhuyin": "ㄨㄣ",
+        "no_intial_form":"wen",
+        "type": "final"
+    },
+    {
+        "pinyin": "uang",
+        "zhuyin": "ㄨㄤ",
+        "no_intial_form":"wang",
+        "type": "final"
+    },
+    {
+        "pinyin": "ong",
+        "zhuyin": "ㄨㄥ",
+        "no_intial_form":"weng",
+        "type": "final"
+    },
+    {
+        "pinyin": "ü",
+        "zhuyin": "ㄩ",
+        "no_intial_form":"yu",
+        "alternate_from":"u",
+        "type": "final"
+    },
+    {
+        "pinyin": "üe",
+        "zhuyin": "ㄩㄝ",
+        "no_intial_form":"yue",
+        "alternate_from":"ue",
+        "type": "final"
+    },
+    {
+        "pinyin": "üan",
+        "zhuyin": "ㄩㄢ",
+        "no_intial_form":"yuan",
+        "alternate_from":"uan",
+        "type": "final"
+    },
+    {
+        "pinyin": "ün",
+        "zhuyin": "ㄩㄣ",
+        "no_intial_form":"yun",
+        "alternate_from":"un",
+        "type": "final"
+    },
+    {
+        "pinyin": "iong",
+        "zhuyin": "ㄩㄥ",
+        "no_intial_form":"yong",
+        "type": "final"
+    }
+]
