@@ -1,0 +1,79 @@
+[
+    {
+        "number": 0,
+        "traditional": "零",
+        "pinyin":"ling2"
+    },
+    {
+        "number": 1,
+        "traditional": "一",
+        "pinyin":"yi1"
+    },
+    {
+        "number": 2,
+        "traditional": "二",
+        "pinyin":"er4"
+    },
+    {
+        "number": 3,
+        "traditional": "三",
+        "pinyin":"san1"
+    },
+    {
+        "number": 4,
+        "traditional": "四",
+        "pinyin":"si4"
+    },
+    {
+        "number": 5,
+        "traditional": "五",
+        "pinyin":"wu3"
+    },
+    {
+        "number": 6,
+        "traditional": "六",
+        "pinyin":"liu4"
+    },
+    {
+        "number": 7,
+        "traditional": "七",
+        "pinyin":"qi1"
+    },
+    {
+        "number": 8,
+        "traditional": "八",
+        "pinyin":"ba1"
+    },
+    {
+        "number": 9,
+        "traditional": "九",
+        "pinyin":"jiu3"
+    },
+    {
+        "number": 10,
+        "traditional": "十",
+        "pinyin":"shi2"
+    },
+    {
+        "number": 100,
+        "traditional": "百",
+        "pinyin":"bai3"
+    },
+    {
+        "number": 1000,
+        "traditional": "千",
+        "pinyin":"qian1"
+    },
+    {
+        "number": 10000,
+        "traditional": "萬",
+        "simplified":"万",
+        "pinyin":"wan4"
+    },
+    {
+        "number": 100000000,
+        "traditional": "億",
+        "simplified":"亿",
+        "pinyin":"yi4"
+    }
+]
