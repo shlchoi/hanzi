@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Hanzi</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="nav_menu_pinyin">Pinyin</string>
+    <string name="nav_menu_numbers">Numbers</string>
+
+    <string name="toolbar_title_character_lookup">Character Lookup</string>
+    <string name="toolbar_title_flashcards">Flashcards</string>
+
+    <string name="check">Check</string>
+
+    <string name="pinyin_lookup">Character Lookup</string>
+    <string name="flashcards">Flashcards</string>
+
+    <string name="numbers_lookup">Number Lookup</string>
+    <string name="chinese_numbers">Chinese Numbers</string>
+
+    <string name="error_vocab_incorrect">Incorrect</string>
+
+    <string name="menu_refresh">Refresh</string>
+</resources>
